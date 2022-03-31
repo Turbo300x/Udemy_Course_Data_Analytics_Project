@@ -12,4 +12,4 @@ My manager has suggested encouraging Web Development courses to charge more beca
 2. Microsoft SQL Server: I used this tool write SQL codes in other to generate key insights into the datasets.
 3. Microsoft Power BI: This used to carry out visualization on the insights from my analysis on MS SQL Server.
  
-**Link to my medium blog post, to view thw documentation for this project:** https://medium.com/@ayomideoshikoya/udemy-data-analytics-project-da7424503305
+**Link to my medium blog post, to view the documentation for this project:** https://medium.com/@ayomideoshikoya/udemy-data-analytics-project-da7424503305
